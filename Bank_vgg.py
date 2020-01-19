@@ -43,7 +43,6 @@ Ensure that you clog all the gaps for those process flows that i have not explic
 a=("Welcome to Vgg Microfinance bank")
 
 
-customer={}
 bal = 0.0
 b = []
 
